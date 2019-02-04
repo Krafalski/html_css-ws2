@@ -3,7 +3,7 @@ module.exports = {
     title: `Intro to Coding: HTML & CSS`,
     author: `Karolin Rafalski`,
     description: `Resources for General Assembly's Intro to Coding: HTML and CSS Workshop.`,
-    siteUrl: `http://www.karolinrafalski.com/`,
+    siteUrl: `/`,
     social: {
       twitter: ``,
     },
@@ -63,7 +63,6 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/thumb_GA_Cog_Large_red_RGB.png`,
       },
     },
     `gatsby-plugin-offline`,
