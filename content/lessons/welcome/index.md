@@ -27,13 +27,13 @@ You can choose to write your code online in the browser and keep everything in t
  - [Fork this codepen and make it your own](https://codepen.io/krafalski/pen/omGbmd?editors=1100)
 
 ### Step 4 Check yourself
-- [A solution for HTML](https://codepen.io/madeline10302/pen/zRmrrX)
+- [A solution for HTML](https://codepen.io/madeline10302/pen/zRmrrX?editors=1100)
 
 ## CSS
 
 ### Code along
 
-- [Let's use this pen to code along ](https://codepen.io/krafalski/pen/GzMoae)
+- [Let's use this pen to code along ](https://codepen.io/krafalski/pen/GzMoae?editors=1100)
 
 ### On Your Own
 - [Lab time let's go back to this pen our Bill Murray Pen - find it on your dashboard](https://codepen.io/dashboard/)
@@ -41,5 +41,5 @@ You can choose to write your code online in the browser and keep everything in t
 
 ### Solutions
 
-- [Basic](https://codepen.io/madeline10302/pen/YeJwqq)
-- [Advanced](https://codepen.io/madeline10302/pen/GQYoZr)
+- [Basic](https://codepen.io/madeline10302/pen/YeJwqq?editors=1100)
+- [Advanced](https://codepen.io/madeline10302/pen/GQYoZr?editors=1100)
