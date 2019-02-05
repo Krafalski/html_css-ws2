@@ -15,7 +15,7 @@ date: "2018-12-28T22:40:32.169Z"
 
 ### Step 1 A Place to Code
 You can choose to write your code online in the browser and keep everything in the cloud:
-- [Sign up for CodePen](codepen.io)
+- [Sign up for CodePen](https://codepen.io)
 
 ### Step 2 A Sample Code Pen
 
@@ -36,7 +36,7 @@ You can choose to write your code online in the browser and keep everything in t
 - [Let's use this pen to code along ](https://codepen.io/krafalski/pen/GzMoae)
 
 ### On Your Own
-- [Lab time let's go back to this pen](https://codepen.io/krafalski/pen/omGbmd?editors=1100)
+- [Lab time let's go back to this pen our Bill Murray Pen - find it on your dashboard](https://codepen.io/dashboard/)
 
 
 ### Solutions
