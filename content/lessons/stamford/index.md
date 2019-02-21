@@ -1,6 +1,6 @@
 ---
 title: Welcome to Stamford
-date: "2019-02-19T22:40:32.169Z"
+date: "2017-02-19T22:40:32.169Z"
 ---
 
 ## Welcome! All our resources are listed here
@@ -32,7 +32,13 @@ You can choose to write your code online in the browser and keep everything in t
  - Fork it by pressing the `fork` button along the top
  - If you have successfully forked it, then you'll see a new button called `save`, now you can save it and any time you are logged in on any computer you can go back to your copy of your pen
 
+<details><summary> Mockup
 
+</summary>
+
+![bill murray](https://i.imgur.com/wO90R7T.png)
+
+</details>
 
 ## CSS
 
@@ -44,6 +50,24 @@ You can choose to write your code online in the browser and keep everything in t
 - [Lab time let's go back to this pen our Bill Murray Pen - find it on your dashboard](https://codepen.io/dashboard/)
 
 
+<details>
+  <summary> Mockup Basic CSS</summary>
+
+![bill murray](https://i.imgur.com/CJeQFfR.png)
+
+</details>
+
+
+<details><summary> Mockup CSS Challenge
+
+</summary>
+
+![bill murray](https://i.imgur.com/26Bnrgb.png)
+
+</details>
+
+
+
 ## HTML Reference Sheet
 
 |tag name| purpose| example |
@@ -53,8 +77,8 @@ You can choose to write your code online in the browser and keep everything in t
 |[p](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)|Paragraph|`<p>Lorem Ipsum</p>`|
 |[a](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)|Anchor(link)|`<a href="urlhere"/> Link Text </a>`|
 |[li](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists)| List item|<`li>One</li>`|
-|[ul](https://www.tutorialspoint.com/html/html_lists.htm)| Unordered List|`<ul><li></li></ul>` list items go INSIDE ul tags see below|
-|[ol](https://www.w3schools.com/tags/tag_ol.asp)| Ordered List|`<ol><li></li></ol>` list items go INSIDE ul tags see below|
+|[ul](https://www.tutorialspoint.com/html/html_lists.htm)| Unordered List|`<ul><li></li></ul>`|
+|[ol](https://www.w3schools.com/tags/tag_ol.asp)| Ordered List|`<ol><li></li></ol>`|
 |[img](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)|Image| `<img src="image.png" alt="image description" />`|
 
 Example unordered list
@@ -82,9 +106,20 @@ Example unordered list
 |[font-size]()|length(12px, 1em, 2rem, 8vw)|`font-size: 32px`|
 |[line-height]()|normal, numner(1.5), length(20px)|`line-height:20px`|
 
+#### Sample styling for paragraphs
+```css
+
+p {
+  color: #fedcba;
+  background: #054391;
+  font-family: sans-serif;
+  text-align: justify;
+}
+```
+
 ### Extra: Box Model
 
-Every element in web design is a rectangular box.
+[Every element in web design is a rectangular box.](https://www.w3schools.com/css/css_boxmodel.asp)
 
 - Boxes can be next to each other (horizontally, vertically)
 - Boxes can be nested inside of each other
